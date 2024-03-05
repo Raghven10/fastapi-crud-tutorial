@@ -1,0 +1,6 @@
+uvicorn
+fastapi
+
+PyJWT
+python-decouple
+pydantic[email]
